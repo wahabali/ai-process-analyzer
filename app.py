@@ -224,6 +224,6 @@ and having to wait for QC re-work."""
 # --- Footer ---
 st.divider()
 st.caption(
-    "AI Business Process Analyzer · Built by Ali Wahab · "
-    "[GitHub](https://github.com/aliwahab/ai-process-analyzer)"
+    "AI Business Process Analyzer · Built by Syed Wahab Ali · "
+    "[LinkedIn](https://www.linkedin.com/in/syed-wahab-ali) · [GitHub](https://github.com/wahabali/ai-process-analyzer)"
 )

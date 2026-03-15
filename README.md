@@ -117,8 +117,8 @@ driven primarily by a bottleneck at Credit Check (avg 4.5h wait) and a 33% rewor
 
 Built by **Ali Wahab** — Data & AI Engineer with 12+ years of enterprise integration experience, Databricks and Microsoft Fabric certified.
 
-[LinkedIn](https://linkedin.com/in/aliwahab) · [GitHub](https://github.com/aliwahab)
+[LinkedIn](https://www.linkedin.com/in/syed-wahab-ali) · [GitHub](https://github.com/wahabali)
 
 ---
 
-*Want a custom process analysis for your business? [Get in touch.](https://linkedin.com/in/aliwahab)*
+*Want a custom process analysis for your business? [Get in touch.](https://www.linkedin.com/in/syed-wahab-ali)*
