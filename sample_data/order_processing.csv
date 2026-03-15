@@ -1,0 +1,53 @@
+case_id,timestamp,activity,resource
+CASE001,2024-01-15 08:00:00,Order Received,System
+CASE001,2024-01-15 08:45:00,Credit Check,Finance Team
+CASE001,2024-01-15 11:30:00,Inventory Check,Warehouse
+CASE001,2024-01-15 12:00:00,Pick and Pack,Warehouse
+CASE001,2024-01-15 14:30:00,Quality Control,QC Team
+CASE001,2024-01-15 15:00:00,Shipped,Logistics
+CASE001,2024-01-17 10:00:00,Delivered,Courier
+CASE002,2024-01-15 09:00:00,Order Received,System
+CASE002,2024-01-15 13:00:00,Credit Check,Finance Team
+CASE002,2024-01-16 09:00:00,Inventory Check,Warehouse
+CASE002,2024-01-16 10:30:00,Pick and Pack,Warehouse
+CASE002,2024-01-16 14:00:00,Quality Control,QC Team
+CASE002,2024-01-16 16:00:00,Rework Required,QC Team
+CASE002,2024-01-17 09:00:00,Pick and Pack,Warehouse
+CASE002,2024-01-17 11:00:00,Quality Control,QC Team
+CASE002,2024-01-17 12:00:00,Shipped,Logistics
+CASE002,2024-01-19 14:00:00,Delivered,Courier
+CASE003,2024-01-15 10:00:00,Order Received,System
+CASE003,2024-01-15 10:30:00,Credit Check,Finance Team
+CASE003,2024-01-15 10:45:00,Credit Check Failed,Finance Team
+CASE003,2024-01-16 08:00:00,Credit Check,Finance Team
+CASE003,2024-01-16 09:00:00,Inventory Check,Warehouse
+CASE003,2024-01-16 09:30:00,Pick and Pack,Warehouse
+CASE003,2024-01-16 11:00:00,Quality Control,QC Team
+CASE003,2024-01-16 11:30:00,Shipped,Logistics
+CASE003,2024-01-18 09:00:00,Delivered,Courier
+CASE004,2024-01-16 08:30:00,Order Received,System
+CASE004,2024-01-16 14:00:00,Credit Check,Finance Team
+CASE004,2024-01-17 10:00:00,Inventory Check,Warehouse
+CASE004,2024-01-17 10:15:00,Out of Stock,Warehouse
+CASE004,2024-01-19 09:00:00,Inventory Check,Warehouse
+CASE004,2024-01-19 09:30:00,Pick and Pack,Warehouse
+CASE004,2024-01-19 12:00:00,Quality Control,QC Team
+CASE004,2024-01-19 13:00:00,Shipped,Logistics
+CASE004,2024-01-22 11:00:00,Delivered,Courier
+CASE005,2024-01-17 07:00:00,Order Received,System
+CASE005,2024-01-17 07:30:00,Credit Check,Finance Team
+CASE005,2024-01-17 08:00:00,Inventory Check,Warehouse
+CASE005,2024-01-17 08:30:00,Pick and Pack,Warehouse
+CASE005,2024-01-17 10:00:00,Quality Control,QC Team
+CASE005,2024-01-17 10:30:00,Shipped,Logistics
+CASE005,2024-01-19 12:00:00,Delivered,Courier
+CASE006,2024-01-17 09:00:00,Order Received,System
+CASE006,2024-01-17 15:30:00,Credit Check,Finance Team
+CASE006,2024-01-18 10:00:00,Inventory Check,Warehouse
+CASE006,2024-01-18 11:30:00,Pick and Pack,Warehouse
+CASE006,2024-01-18 15:00:00,Quality Control,QC Team
+CASE006,2024-01-18 16:00:00,Rework Required,QC Team
+CASE006,2024-01-19 10:00:00,Pick and Pack,Warehouse
+CASE006,2024-01-19 11:30:00,Quality Control,QC Team
+CASE006,2024-01-19 12:00:00,Shipped,Logistics
+CASE006,2024-01-22 09:00:00,Delivered,Courier
